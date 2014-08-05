@@ -2,5 +2,5 @@
 
 !.gitconfig
 !.gitignore
-!.vim
+!.vim/
 !.vimrc
